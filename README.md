@@ -1,2 +1,3 @@
-# hello-world
-This is a first github
+<? php
+echo "hello github";
+?>
